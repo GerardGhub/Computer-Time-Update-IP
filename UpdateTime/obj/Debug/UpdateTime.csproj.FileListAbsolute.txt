@@ -1,0 +1,29 @@
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\bin\Debug\UpdateTime.exe.config
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\bin\Debug\UpdateTime.exe
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\bin\Debug\UpdateTime.pdb
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.Form1.resources
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.exe
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.pdb
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\Interop.WbemScripting.dll
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.csproj.ResolveComReference.cache
+C:\Users\philip.calugcugan\Desktop\UpdateTime\UpdateTime\obj\Debug\UpdateTime.Form2.resources
+C:\Users\philip.calugcugan\Desktop\PHILIP\UpdateTime\UpdateTime\bin\Debug\UpdateTime.exe.config
+C:\Users\philip.calugcugan\Desktop\PHILIP\UpdateTime\UpdateTime\obj\Debug\Interop.WbemScripting.dll
+C:\Users\philip.calugcugan\Desktop\PHILIP\UpdateTime\UpdateTime\obj\Debug\UpdateTime.csproj.ResolveComReference.cache
+C:\Users\philip.calugcugan\Desktop\PHILIP\UpdateTime\UpdateTime\obj\Debug\UpdateTime.exe
+C:\Users\philip.calugcugan\Desktop\PHILIP\UpdateTime\UpdateTime\obj\Debug\UpdateTime.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\bin\Debug\UpdateTime.exe.config
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\Interop.WbemScripting.dll
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.csproj.ResolveComReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\bin\Debug\UpdateTime.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\bin\Debug\UpdateTime.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.csprojResolveAssemblyReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.Form1.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.Form2.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.Properties.Resources.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.csproj.GenerateResource.Cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Computer Time Update IP\UpdateTime\obj\Debug\UpdateTime.MDIParent1.resources
